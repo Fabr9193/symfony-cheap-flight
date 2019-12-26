@@ -1,0 +1,11 @@
+{# templates/task/new.html.twig #}
+
+{{ form_start(form) }}
+    {{ form_errors(form) }}
+
+    {{ form_row(form.fly_from) }}
+    {{ form_row(form.budget) }}
+    {{ form_row(form.nb_travelers) }}
+
+    {{ form_row(form.submit, { 'label': 'Search' }) }}
+{{ form_end(form) }}
