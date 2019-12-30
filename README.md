@@ -7,6 +7,6 @@
 * date_from: date (08/08/2020) <br/>
 * adults: int (1)<br/>
 * price_to: int (90)<br/>
-* nights_in_dst_from: (5)
+* nights_in_dst_from: int (5)
 
 
