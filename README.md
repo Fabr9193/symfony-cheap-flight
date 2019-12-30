@@ -34,4 +34,4 @@ Response :
         }, ...
         ]
 
-
+test URL  : https://fast-sierra-13727.herokuapp.com/search?fly_from=PAR&date_from=08/08/2020&adults=1&price_to=90&nights_in_dst_from=5
