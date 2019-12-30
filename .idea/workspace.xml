@@ -12,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/phpunit" beforeDir="false" afterPath="$PROJECT_DIR$/bin/phpunit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/search/new.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/search/new.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,6 +177,7 @@
       <updated>1577392043003</updated>
       <workItem from="1577392049229" duration="8457000" />
       <workItem from="1577704431372" duration="11285000" />
+      <workItem from="1577721448765" duration="10000" />
     </task>
     <servers />
   </component>
