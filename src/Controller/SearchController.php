@@ -48,7 +48,11 @@ class SearchController extends AbstractController
     /**
      * @Route("/search")
      * @param Request $request
-     * @throws \Symfony\Contracts\HttpClient\Exception\TransportExceptionInterface
+     * @return Response
+     * @throws TransportExceptionInterface
+     * @throws \Symfony\Contracts\HttpClient\Exception\ClientExceptionInterface
+     * @throws \Symfony\Contracts\HttpClient\Exception\RedirectionExceptionInterface
+     * @throws \Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface
      */
     public function  search(Request $request) {
         //FIXME : gestion des erreurs 422 : mauvais nom de départ (n'accepte que Code pays[FR,IT,US] ou code aeroport[CDG, ORY, IAD])
